@@ -1,0 +1,6 @@
+spring.application.name: lucky-word
+spring.cloud.config.uri: http://localhost:8081
+spring:
+  profiles:
+    active:
+    - northamerica
