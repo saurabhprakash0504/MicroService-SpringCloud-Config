@@ -1,3 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<session version="1.0">&#x0A;<refactoring comment="Delete resource &apos;SpringBootCloudServer&apos;" deleteContents="false" description="Delete resource &apos;SpringBootCloudServer&apos;" element1="/SpringBootCloudServer" flags="7" id="org.eclipse.ltk.core.refactoring.delete.resources" resources="1" stamp="1535351608049"/>&#x0A;<refactoring comment="Rename resource &apos;SpringBoot1&apos; to &apos;SpringCloudClient&apos;" description="Rename resource &apos;SpringBoot1&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="/SpringBoot1" name="SpringCloudClient" stamp="1535356815228" updateReferences="true"/>
-</session>
