@@ -3,7 +3,7 @@ spring:
     config:
       server:
         git:
-          uri: https://github.com/saurabhprakash0504/MicroServices-SpringCloud
+          uri: https://github.com/saurabhprakash0504/MicroService-SpringCloud-Config
           searchPaths: ConfigData
         # "native" is used when the native profile is active, for local tests with a classpath repo:
         native:
