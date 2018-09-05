@@ -4,9 +4,15 @@ spring:
       server:
         git:
           uri: https://github.com/saurabhprakash0504/MicroService-SpringCloud-Config
-          searchPaths: ConfigData
+          searchPaths: ConfigData2
         # "native" is used when the native profile is active, for local tests with a classpath repo:
         native:
           searchLocations: classpath:offline-repository/
 server:
   port: 8001
+
+management:
+  endpoints:
+    web:
+      exposure:
+        include: bus-refresh
