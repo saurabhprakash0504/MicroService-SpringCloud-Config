@@ -4,6 +4,16 @@ http://localhost:8003/countryFruit
 
 http://localhost:8002/capitalCountry
 
+------------------------------------------------------------------------------------------------------------
+
+SPRING CLOUD CONFIG
+
+Spring cloud config helps to read the configuration file from outside the spring boot application and move it to a remote location like github.
+
+It removes the configuration or dependency from the spring boot appliation.
+
+
+
 -----------------------------------------------------
 SPRING CLOUD BUS
 
